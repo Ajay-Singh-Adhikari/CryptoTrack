@@ -60,3 +60,8 @@ CryptoTracker/
 └── README.md
 
 
+
+  ---video link-----
+  https://youtu.be/kHvZw08scQU?si=MCja8usjEbs62-mM   ---how you can run server
+  https://youtu.be/2gkcaac_MXI?si=m3XDLpE4bbtJR4Gp     ---project overview
+
