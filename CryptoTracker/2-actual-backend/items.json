@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "id": "1.",
+      "image": "https://logospng.org/download/bitcoin/logo-bitcoin-4096.png",
+      "name": "Bitcoin",
+      "short": "BTC",
+      "price": "$93,759.48",
+      "oneH": "0.43%",
+      "oneD": "0.93%",
+      "sevenD": "11.11%",
+      "market": "$1,861,618,902,186",
+      "volume": "$43,874,950,947",
+      "volumeSmall": "467.81K BTC",
+      "supply": "19.85M ETH"
+    },
+    {
+      "id": "2.",
+      "image": "https://th.bing.com/th/id/OIP.NpMvRVKBcGvZY0BZx8ggggHaHa?w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.1&pid=3.1&rm=2",
+      "name": "Ethereum",
+      "short": "ETH",
+      "price": "$1,802.46",
+      "oneH": "0.60%",
+      "oneD": "3.21%",
+      "sevenD": "13.68%",
+      "market": "$217,581,279,327",
+      "volume": "$43,874,950,947",
+      "volumeSmall": "467.81K BTC",
+      "supply": "19.85M ETH"
+    },
+    {
+      "id": "3.",
+      "image": "https://th.bing.com/th/id/OIP.klCCH4Foxd_-aomg06N2WwHaHa?w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.1&pid=3.1&rm=2",
+      "name": "Tether",
+      "short": "USDT",
+      "price": "$93,759.48",
+      "oneH": "0.43%",
+      "oneD": "0.93%",
+      "sevenD": "11.11%",
+      "market": "$1,861,618,902,186",
+      "volume": "$43,874,950,947",
+      "volumeSmall": "467.81K BTC",
+      "supply": "19.85M ETH"
+    },
+    {
+      "id": "4.",
+      "image": "https://th.bing.com/th/id/OIP.8fpZu-s7_bXRMiRvFaWiBgHaHa?w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.1&pid=3.1&rm=2",
+      "name": "XRP",
+      "short": "XRP",
+      "price": "$93,759.48",
+      "oneH": "0.43%",
+      "oneD": "0.93%",
+      "sevenD": "11.11%",
+      "market": "$1,861,618,902,186",
+      "volume": "$43,874,950,947",
+      "volumeSmall": "467.81K BTC",
+      "supply": "19.85M ETH"
+    },
+    {
+      "id": "5.",
+      "image": "https://th.bing.com/th/id/OIP.mstzACPcm4r4x6jYbQhUPAAAAA?w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.1&pid=3.1&rm=2",
+      "name": "BNB",
+      "short": "BNB",
+      "price": "$93,759.48",
+      "oneH": "0.43%",
+      "oneD": "0.93%",
+      "sevenD": "11.11%",
+      "market": "$1,861,618,902,186",
+      "volume": "$43,874,950,947",
+      "volumeSmall": "467.81K BTC",
+      "supply": "19.85M ETH"
+    },
+    {
+      "id": "6.",
+      "image": "https://th.bing.com/th/id/OIP.kAfgkfRuTV7gYVp7xIHo6AHaHa?w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.1&pid=3.1&rm=2",
+      "name": "Solana",
+      "short": "SOL",
+      "price": "$93,759.48",
+      "oneH": "0.43%",
+      "oneD": "0.93%",
+      "sevenD": "11.11%",
+      "market": "$1,861,618,902,186",
+      "volume": "$43,874,950,947",
+      "volumeSmall": "467.81K BTC",
+      "supply": "19.85M ETH"
+    }
+  ]
+}
