@@ -1,13 +1,13 @@
 -------SETUP INSTRUCTION------
 
 
-1. Download the Zip Folder and extract the CryptoTracker Folder from that / Clone the Repository.
-2. Open that folder in VS Code and open the folder in terminal using cd command "2-actual-backend" and write a command "npm install".
+1. Download the Zip Folder and extract the CryptoTracker Folder from that or Just copy the folder inside that ZIP file and paste it on your path where you prefer to save it.
+2. Open that folder in VS Code and open the folder in terminal using cd command "2-actual-backend" and write a command "npm install" to install web dependencies of "2-actual-backend".
 3. IN terminal, Start the server using "npm start" command.
 4. Now go to the browser and write "localhost:8080/items" and the server is started.
 5. Now go to VS Code and open the folder "1-UI".
-6. Install Dependencies (using "npm install" command)
-7. Start the Development Server (Write "npm run dev" command on the terminal of VS Code if you are using VS Code)
+6. Install Dependencies (using "npm install" command) to install web dependencies of folder "1-UI".
+7. Start the Development Server (Write "npm run dev" command on the terminal of VS Code if you are using VS Code).
 8. The app will be available at localhost port address.
 
 
